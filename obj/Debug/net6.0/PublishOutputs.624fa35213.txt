@@ -1,0 +1,1 @@
+C:\Users\bap53\Documents\c#\BlazorWasmApp\bin\Debug\net6.0\publish\web.config
