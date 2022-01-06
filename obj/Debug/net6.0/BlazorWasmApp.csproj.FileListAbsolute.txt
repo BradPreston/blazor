@@ -813,3 +813,5 @@ C:\Users\bap53\Documents\c#\BlazorWasmApp\obj\Debug\net6.0\BlazorWasmApp.csproj.
 C:\Users\bap53\Documents\c#\BlazorWasmApp\obj\Debug\net6.0\BlazorWasmApp.dll
 C:\Users\bap53\Documents\c#\BlazorWasmApp\obj\Debug\net6.0\ref\BlazorWasmApp.dll
 C:\Users\bap53\Documents\c#\BlazorWasmApp\obj\Debug\net6.0\BlazorWasmApp.pdb
+C:\Users\bap53\Documents\c#\BlazorWasmApp\bin\Debug\net6.0\release\web.config
+C:\Users\bap53\Documents\c#\BlazorWasmApp\bin\Debug\net6.0\release\wwwroot\_framework\blazor.boot.json
